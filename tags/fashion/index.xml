@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fashion on Around The Diamond</title>
-    <link>https://examplesite.org/tags/fashion/</link>
+    <link>https://aroundthediamond.github.io/tags/fashion/</link>
     <description>Recent content in Fashion on Around The Diamond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://examplesite.org/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://aroundthediamond.github.io/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021 Bullpen Review</title>
-      <link>https://examplesite.org/blog/nats4/</link>
+      <link>https://aroundthediamond.github.io/blog/nats4/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/nats4/</guid>
+      <guid>https://aroundthediamond.github.io/blog/nats4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Around The Diamond</title>
-    <link>https://examplesite.org/tags/</link>
+    <link>https://aroundthediamond.github.io/tags/</link>
     <description>Recent content in Tags on Around The Diamond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://aroundthediamond.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dodgers</title>
-      <link>https://examplesite.org/tags/dodgers/</link>
+      <link>https://aroundthediamond.github.io/tags/dodgers/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/tags/dodgers/</guid>
+      <guid>https://aroundthediamond.github.io/tags/dodgers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>https://examplesite.org/tags/fashion/</link>
+      <link>https://aroundthediamond.github.io/tags/fashion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/tags/fashion/</guid>
+      <guid>https://aroundthediamond.github.io/tags/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://examplesite.org/tags/food/</link>
+      <link>https://aroundthediamond.github.io/tags/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/tags/food/</guid>
+      <guid>https://aroundthediamond.github.io/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nats</title>
-      <link>https://examplesite.org/tags/nats/</link>
+      <link>https://aroundthediamond.github.io/tags/nats/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/tags/nats/</guid>
+      <guid>https://aroundthediamond.github.io/tags/nats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>https://examplesite.org/tags/nature/</link>
+      <link>https://aroundthediamond.github.io/tags/nature/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/tags/nature/</guid>
+      <guid>https://aroundthediamond.github.io/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://examplesite.org/tags/photos/</link>
+      <link>https://aroundthediamond.github.io/tags/photos/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/tags/photos/</guid>
+      <guid>https://aroundthediamond.github.io/tags/photos/</guid>
       <description></description>
     </item>
     
